@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is a practice file.")
+print ("hello user whats your name :-")
+a=input()
+print("hello " + a + " welcome to the world of programming")
