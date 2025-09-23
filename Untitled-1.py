@@ -1,0 +1,1 @@
+def find_index(lst, x): return lst.index(x)
